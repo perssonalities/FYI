@@ -1,0 +1,29 @@
+body {
+border: 5px solid #3A68E5;
+margin-left: 600px;
+body-align: center;
+width: 500px;
+height: 750px;
+}
+
+h1{
+
+  text-align: center;
+  font-size:100px;
+  color:#3A68E5    ;
+}
+
+button{
+    border-radius: 15px;
+    background: #73AD21;
+    padding: 20px;
+    width: 235px;
+    height: 70px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+p{
+  font-weight: bold;
+  font-size: 22px;
+}
